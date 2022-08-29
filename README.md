@@ -3,6 +3,7 @@
 An EDA is a thorough examination meant to uncover the underlying structure of a data set and is important for a company because it exposes trends, patterns, and relationships that are not readily apparent.
 
 ### Git Hub Link - https://github.com/pasayat-siddhartha/Capstone_Project01_EDA_Airbnb_Booking_Analysis
+### Drive Link - https://drive.google.com/drive/folders/1TyA4li11fR54lZF0bDv0jrsPqff_3D4m?usp=sharing
 ### LinkedIn - https://www.linkedin.com/in/siddhartha-pasayat/
 
 ## Inferences:
@@ -30,3 +31,6 @@ An EDA is a thorough examination meant to uncover the underlying structure of a 
 ![download (15)](https://user-images.githubusercontent.com/111691087/186940241-9fedbae9-e68a-46ed-a4b9-46302f008ff2.png)
 ![download (16)](https://user-images.githubusercontent.com/111691087/186940396-c218bada-c815-4eb5-9e26-222d4f0c7135.png)
 ### Most hosts allow less than 5 days mandatory stay.The average is higher in Manhattan, Brooklyn and Queens
+
+
+###<b> Thank You for staying connected.
